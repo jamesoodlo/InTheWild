@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CinemachineTarget
+  - StartPos
+  - Items
+  - Enemy
+  - Axe
+  - Blade
+  - Laser
+  - Spear
+  - Hammer
+  - ItemsBox
+  - Apple
+  - Weapons
+  - WeaponsEnemy
+  - WoodenBox
+  - GoldCoin
+  - Bullet
+  - Fire
+  - Environment
+  - GhostDmg
+  - Mk3Dmg
+  - Campfire
+  - Lv1
+  - Lv2
+  - Lv3
+  - LV4
+  - Lv5
+  - Lobby
+  - Menu
+  - Lv6
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Post-Processing
+  - Character
+  - Environment
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

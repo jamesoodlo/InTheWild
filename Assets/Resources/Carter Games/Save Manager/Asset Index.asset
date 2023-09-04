@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e42f8016ddf465cbf45eb0adf3002ad, type: 3}
+  m_Name: Asset Index
+  m_EditorClassIdentifier: 
+  assets:
+    list:
+    - key: CarterGames.Assets.SaveManager.EncryptionKeyAsset
+      value:
+      - {fileID: 11400000, guid: d86d32bbdd37f9c4d9299d305058528e, type: 2}
+    - key: CarterGames.Assets.SaveManager.SaveData
+      value:
+      - {fileID: 11400000, guid: 85f793833f3340a47bcceaba03d533e5, type: 2}
+    - key: CarterGames.Assets.SaveManager.SettingsAssetRuntime
+      value:
+      - {fileID: 11400000, guid: 8b05c98d0f9ba3c458f037e49e8037fc, type: 2}
